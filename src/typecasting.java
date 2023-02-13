@@ -21,8 +21,8 @@ public class typecasting {
         System.out.println("******************");
         System.out.println("******************");
         System.out.println("******************");
-            int Job=loop3(1);
-        System.out.println(Job);
+            //int Job=loop3(1);
+        //System.out.println(Job);
     }
 
     public static void loop1(int i,int b) {
